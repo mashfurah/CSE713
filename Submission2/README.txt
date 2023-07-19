@@ -1,14 +1,14 @@
 Link to unlisted YouTube video:
-https://youtu.be/xii2uliP-c8
+https://youtu.be/Wmut8_9EC-0
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1xzHrUnd3TiGmirww2eu95cba9qUR_v85rMFw3xlvFOw/edit#slide=id.p1
+https://docs.google.com/presentation/d/18AHLQCm1vfec5IbQFnIuqB3PqHPYbXAmw1tjLBuFKfQ/edit#slide=id.p1
 
 Paper title:
-A Novel Approach for Sentiment Analysis Using on Twitter Incorporating the Universal Language Model Fine-Tuning and SVM
+Handwritten Signature Verification Method Based on Improved Combined Features
 
 Link to the paper:
-https://www.mdpi.com/2571-5577/5/1/13
+https://www.mdpi.com/2076-3417/11/13/5867
 
 Group Number:
 6
